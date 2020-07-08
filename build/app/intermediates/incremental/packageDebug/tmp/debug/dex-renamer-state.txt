@@ -1,4 +1,4 @@
-#Mon May 04 10:30:50 BRT 2020
-base.0=/home/juliana/dev/Alura/projetos/flutter-estados/build/app/intermediates/transforms/dexMerger/debug/0
+#Tue Jul 07 21:17:03 BRT 2020
+base.0=/home/israel/Documentos/Cursos/Flutter/flutter-gerenciamento-de-estado/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
